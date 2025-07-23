@@ -1,5 +1,6 @@
 <?php
-// conection PHP;
+// conection PHP close;
+//connection
 $db = new mysqli("localhost", "root", "", "painel_uniasselvi", "3306");
 // validação:
 if($db ->connect_errno){
