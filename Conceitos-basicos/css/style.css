@@ -1,0 +1,28 @@
+
+.titulo-destaque{
+                font-size: 25px;
+                color: red;
+            }
+            .paragrafo-principal{
+                font-size: 15px;
+                color: blueviolet;
+            }
+            #titulo{
+                font-size: 30px; color: green;
+            }
+
+            .titulo-clientes{
+                font-size: 14px;
+                font-family: sans-serif;
+                color:brown;
+                text-align: justify;
+                text-decoration: none;
+               }
+            .paragrafo-clientes{
+                font-size: 18px;
+                color:violet;
+                text-align: justify;
+                text-decoration: none;
+                padding: 0px;
+
+            }
