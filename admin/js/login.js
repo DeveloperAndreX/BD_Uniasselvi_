@@ -1,7 +1,10 @@
 function connect(formData){
     return fetch('./controllers/userLogin.php', {
         method: "post",
+        method: "get",
         body: formData
+        
+
     })
     .then(response => response.json());    
 }

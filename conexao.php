@@ -9,5 +9,6 @@ if($db ->connect_errno){
 }
 
 echo "sem erros na aplicação";
+exit();
 
 ?>
