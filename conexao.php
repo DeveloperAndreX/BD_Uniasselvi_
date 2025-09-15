@@ -8,6 +8,6 @@ if($db ->connect_errno){
     exit();
 }
 
-echo "sem erros";
+echo "sem erros na aplicação";
 
 ?>
